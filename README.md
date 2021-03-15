@@ -1,5 +1,5 @@
 # Arduino-IDE-QR-CODE-esp32cam
-![esp32cam](https://github.com/DmitryKitanin/Arduino-IDE-QR-CODE-esp32cam/esp32cam.jpg)
+![esp32cam](esp32cam.jpg)
 Start recognising QR codes with esp32cam board in Arduino IDE now! Without any problems...
 
 No complex setup, additonal libraries, HUGE SDK and other annoying things!
@@ -7,7 +7,10 @@ No complex setup, additonal libraries, HUGE SDK and other annoying things!
 Just one file!
 
 Install esp32cam stuff in ArduinoIDE - use Google for that :-)
-Just clone this repo, open Arduino-IDE-QR-CODE-esp32cam.ino
+Just clone this repo, open 
+
+Arduino-IDE-QR-CODE-esp32cam.ino
+
 in Arduino IDE, scroll it down to:
 
 //YOUR CODE HERE!---------------------------------------------------------
